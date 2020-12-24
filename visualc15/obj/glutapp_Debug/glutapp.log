@@ -1,0 +1,16 @@
+﻿  App.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(16,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(19,121): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(61,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(65,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(68,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(75,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(79,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(93,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(134,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\App.cpp(134,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  glutapp.vcxproj -> C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\visualc15\obj\glutapp_Debug\glutapp.exe

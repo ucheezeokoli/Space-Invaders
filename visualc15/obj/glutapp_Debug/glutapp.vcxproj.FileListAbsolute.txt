@@ -1,0 +1,4 @@
+C:\Users\uezeokoli\Documents\CSE165\Lab5\visualc15\obj\glutapp_Debug\glutapp.exe
+C:\Users\uezeokoli\Documents\CSE165\Lab5\visualc15\obj\glutapp_Debug\glutapp.pdb
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\visualc15\obj\glutapp_Debug\glutapp.exe
+C:\Users\uezeokoli\Documents\CSE165\Final Project\textures\visualc15\obj\glutapp_Debug\glutapp.pdb
